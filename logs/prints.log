@@ -1,0 +1,3 @@
+16:21:06.803 [TestNG-tests-1] INFO  Academy.Home_Page - Landed in the landing page
+16:21:06.808 [TestNG-tests-1] DEBUG Academy.Home_Page - Clicked on login button
+16:21:06.808 [TestNG-tests-1] INFO  Academy.Home_Page - Landed in the login page

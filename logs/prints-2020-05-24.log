@@ -1,0 +1,11 @@
+13:58:24.965 [TestNG-tests-1] DEBUG Academy.Home_Page - Username entered
+13:58:25.149 [TestNG-tests-1] DEBUG Academy.Home_Page - Password entered
+13:58:38.893 [TestNG-tests-1] DEBUG Academy.Home_Page - Clicked on submit button
+13:58:38.897 [TestNG-tests-1] INFO  Academy.Home_Page - Landed on dashboard page
+13:58:39.061 [TestNG-tests-1] DEBUG Academy.Home_Page - Clicked on Account button
+13:58:48.688 [TestNG-tests-1] DEBUG Academy.Home_Page - Clicked on LogOut button
+13:58:48.692 [TestNG-tests-1] INFO  Academy.Home_Page - Landed in the landing page
+13:58:48.692 [TestNG-tests-1] DEBUG Academy.Home_Page - Clicked on login button
+13:58:48.692 [TestNG-tests-1] INFO  Academy.Home_Page - Landed in the login page
+13:58:55.701 [TestNG-tests-1] DEBUG Academy.Home_Page - Username entered
+13:58:55.845 [TestNG-tests-1] DEBUG Academy.Home_Page - Password entered
