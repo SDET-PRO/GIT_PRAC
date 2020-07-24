@@ -32,6 +32,13 @@ public class Validate_Title extends Base {
 		
 	}
 	
+	@Test
+	public void gitExample()
+	{
+				System.out.println("Just for Git Example Purpose");		
+	}
+	
+	
 	@AfterTest
 	public void shutdown()
 	{
