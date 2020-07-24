@@ -37,6 +37,8 @@ public class Validate_Title extends Base {
 	{
 				System.out.println("Just for Git Example1 Purpose");	
 				System.out.println("Just for Git Example2 Purpose");
+				System.out.println("newly add file");
+
 				
 	}
 	
